@@ -17,11 +17,5 @@ iTask Manager is a robust task management application built using HTML, CSS, Jav
 - **React.js:** Building dynamic and interactive UI components.
 - **Tailwind CSS:** Ensuring a responsive and consistent design.
 
-## Installation
 
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/syed-zeeshan001/itask-manager.git
 
